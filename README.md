@@ -31,6 +31,7 @@ See the [godoc](https://godoc.org/go.bmvs.io/orderedset) to see all the availabl
 
 ## Development
 
+- Install dependencies with [`dep`](https://github.com/golang/dep)
 - Run tests with `go test -race ./...`
 
 ## License
