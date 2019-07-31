@@ -2,3 +2,5 @@ go.bmvs.io/orderedmap v1.0.0 h1:bBvYxKDmnR8Ykgxb1qy1MdPXCrC8md0me02AvJGJXco=
 go.bmvs.io/orderedmap v1.0.0/go.mod h1:+SQ3VFt0nZcDLU3137E6MdGhARnfBgLBpDK6cwoS3JA=
 go.bmvs.io/orderedmap v1.0.1 h1:YIDPSoy1p97DJWyE+xKXINv7dw978jR11DpUu8spbrI=
 go.bmvs.io/orderedmap v1.0.1/go.mod h1:+SQ3VFt0nZcDLU3137E6MdGhARnfBgLBpDK6cwoS3JA=
+go.bmvs.io/orderedmap v1.0.2 h1:IlCS0RfzPX2oF/Iqw7WxA2AJLZIguuGJbYW9Vi3v0R8=
+go.bmvs.io/orderedmap v1.0.2/go.mod h1:+SQ3VFt0nZcDLU3137E6MdGhARnfBgLBpDK6cwoS3JA=
